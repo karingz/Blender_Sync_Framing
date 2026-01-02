@@ -37,6 +37,8 @@ The **Sync Framing Toggle** addon enhances Blender's workflow by automatically s
 
 - **With Sync Enabled**: Press `Numpad Period (.)` to frame the selected object in both the 3D viewport and locate it in the Outliner
 - **With Sync Disabled**: Press `Numpad Period (.)` to frame the selected object only in the 3D viewport (standard Blender behavior)
+- **Changing shortcut**: Go to `Edit` > `Preferences` > `Keymap` > Search for `Smart Frame`
+   <img width="653" height="51" alt="Smart_Frame_shortcut" src="https://github.com/user-attachments/assets/efea4d7d-dafb-499e-97c1-d34b89275c84" />
 
 ## Requirements
 
